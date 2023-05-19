@@ -9,8 +9,8 @@
 
 <channel>
 	<title>elgatales</title>
-	<atom:link href="https://elgatales.fastandstatic.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://elgatales.fastandstatic.com/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 19 May 2023 14:44:59 +0000</lastBuildDate>
 	<language>es</language>

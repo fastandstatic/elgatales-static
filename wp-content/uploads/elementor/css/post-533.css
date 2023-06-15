@@ -4,7 +4,7 @@
 .seccion-contenido .contenido .elementor-tab-title {
     border-radius: 29px;
 }
-
+/*
 .seccion-contenido .contenido span.elementor-toggle-icon.elementor-toggle-icon-right:after {
     content: "5 Clases • 25 min";
     position: relative;
@@ -19,7 +19,7 @@
     flex-direction: row;
     font-size: 13px;
     color: #717171;
-}
+}*/
 .seccion-frecuentes .frecuentes a.elementor-toggle-title:before {
     content: url(./../../2023/05/Group-52.svg);
     position: relative;
@@ -50,7 +50,7 @@ div#box-objetivo {
 }
 
 @media only screen and (max-width: 768px) {
-      /* For mobile phones: */
+      /* For mobile phones:
       .seccion-contenido .contenido a.elementor-toggle-title:before {
         content: "5 Clases • 25 min";
         position: relative;
@@ -65,7 +65,7 @@ div#box-objetivo {
         align-items: center;
         align-content: center;
         flex-direction: row;
-    }
+    } */
     .seccion-contenido .contenido span.elementor-toggle-icon.elementor-toggle-icon-right:after {
         display: none;
     }

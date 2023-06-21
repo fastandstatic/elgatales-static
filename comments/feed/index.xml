@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentarios en El Gatales	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://elgatales.fastandstatic.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elgatales.fastandstatic.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Jun 2023 20:53:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jun 2023 21:10:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

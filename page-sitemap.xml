@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-06-21T17:19:51+00:00</lastmod>
+		<lastmod>2023-06-21T19:57:12+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
@@ -42,7 +42,7 @@
 	</url>
 	<url>
 		<loc>./cursales/index.html</loc>
-		<lastmod>2023-06-21T16:50:11+00:00</lastmod>
+		<lastmod>2023-06-21T19:46:15+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
 		</image:image>
@@ -52,7 +52,7 @@
 	</url>
 	<url>
 		<loc>./intro-cursales/index.html</loc>
-		<lastmod>2023-06-21T17:07:46+00:00</lastmod>
+		<lastmod>2023-06-21T19:58:09+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>

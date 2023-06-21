@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-06-20T14:17:23+00:00</lastmod>
+		<lastmod>2023-06-21T17:19:51+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
@@ -41,20 +41,20 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./intro-cursales/index.html</loc>
-		<lastmod>2023-05-23T20:24:23+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./cursales/index.html</loc>
-		<lastmod>2023-05-23T20:47:49+00:00</lastmod>
+		<lastmod>2023-06-21T16:50:11+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/05/Rectangle-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./intro-cursales/index.html</loc>
+		<lastmod>2023-06-21T17:07:46+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>

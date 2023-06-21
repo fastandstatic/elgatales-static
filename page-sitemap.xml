@@ -41,20 +41,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./intro-cursales/index.html</loc>
+		<lastmod>2023-06-21T20:05:29+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./cursales/index.html</loc>
-		<lastmod>2023-06-21T19:46:15+00:00</lastmod>
+		<lastmod>2023-06-21T20:53:43+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./intro-cursales/index.html</loc>
-		<lastmod>2023-06-21T20:05:29+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>

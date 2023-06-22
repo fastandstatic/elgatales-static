@@ -1,60 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://elgatales.fastandstatic.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://elgatales.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://elgatales.fastandstatic.com/</loc>
+		<loc>https://elgatales.com/</loc>
 		<lastmod>2023-06-21T19:57:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-43.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/flying-money-4385660-3640566-2.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/flying-money-4385660-3640566-2.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/flying-money-4385660-3640566-2.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/flying-money-4385660-3640566-2.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Path-1.png</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Path-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-50-1.png</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-50-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-1.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-53.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://elgatales.fastandstatic.com/intro-cursales/</loc>
-		<lastmod>2023-06-21T20:05:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-43.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-53.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://elgatales.fastandstatic.com/cursales/</loc>
-		<lastmod>2023-06-21T21:10:13+00:00</lastmod>
+		<loc>https://elgatales.com/intro-cursales/</loc>
+		<lastmod>2023-06-21T21:52:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/06/curso-gratis-portada-web-1024x576.webp</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://elgatales.com/cursales/</loc>
+		<lastmod>2023-06-22T13:58:41+00:00</lastmod>
 		<image:image>
-			<image:loc>https://elgatales.fastandstatic.com/wp-content/uploads/2023/05/Group-48-1.svg</image:loc>
+			<image:loc>https://elgatales.com/wp-content/uploads/2023/05/Group-43.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>

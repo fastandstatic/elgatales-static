@@ -27,6 +27,7 @@ section#form-gatales button[type="submit"] {
     border: 1px solid #0EBE88;
     border-radius: 28px;
     height: 50px !important;
+    color: #fff;
 }
 .logincontenido form input#code {
     margin-bottom: 20px;
@@ -58,4 +59,16 @@ section#form-gatales button[type="submit"] {
 }
 .logincontenido form p#back {
     margin-bottom: 30px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
 }/* End custom CSS */
